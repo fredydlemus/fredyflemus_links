@@ -1,8 +1,10 @@
 @import "componentes/hero.css";
+@import "componentes/buttons.css";
 
 :root {
   --dark-blue: #00243b;
   --skyblue: #5dd9c1;
+  --dark: #0f1626;
 }
 
 * {
