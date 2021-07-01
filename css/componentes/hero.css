@@ -1,0 +1,21 @@
+.hero {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.hero .foto-hero {
+  width: 195px;
+  height: 195px;
+  border-radius: 50%;
+  border: 1px solid var(--skyblue);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hero .foto-hero img {
+  width: 175px;
+  border-radius: 50%;
+}

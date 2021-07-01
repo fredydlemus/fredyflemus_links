@@ -1,0 +1,17 @@
+@import "componentes/hero.css";
+
+:root {
+  --dark-blue: #00243b;
+  --skyblue: #5dd9c1;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--dark-blue);
+  font-family: "Poppins", "sans-serif";
+}
