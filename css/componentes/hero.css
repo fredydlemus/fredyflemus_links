@@ -19,3 +19,30 @@
   width: 175px;
   border-radius: 50%;
 }
+
+.hero .descripciones-hero {
+  color: white;
+  margin-top: 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.hero .descripciones-hero h2 {
+  font-size: 24px;
+}
+
+.hero .descripciones-hero h3 {
+  margin-bottom: 5px;
+}
+
+.hero .descripciones-hero .location {
+  display: inline-block;
+  background-image: url("../../assets/icons/location.svg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 15px;
+  height: 15px;
+  margin-right: 5px;
+}
