@@ -22,10 +22,11 @@
 
 .hero .descripciones-hero {
   color: white;
-  margin-top: 40px;
+  margin-top: 24px;
   display: flex;
   flex-direction: column;
   align-items: center;
+  line-height: 1.8;
 }
 
 .hero .descripciones-hero h2 {
