@@ -14,7 +14,7 @@
   width: 70px;
   height: 70px;
   vertical-align: middle;
-  border: 1px solid var(--dark);
+  border: 2px solid var(--dark);
   border-radius: 50%;
   padding: 10px;
 }
