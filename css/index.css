@@ -14,7 +14,12 @@
 }
 
 body {
-  background-color: var(--dark-blue);
+  background-image: radial-gradient(
+    circle at 0% 0%,
+    #324151 0,
+    #00243b 50%,
+    #000226 100%
+  );
   font-family: "Poppins", "sans-serif";
 }
 
